@@ -2,7 +2,6 @@ kind: Service
 apiVersion: v1
 metadata:
   name: nodejs-sample
-  namespace: test
   uid: ca45a199-0b30-4b79-a1b5-f79fb2a0cc96
   resourceVersion: '83179'
   creationTimestamp: '2022-03-15T18:43:37Z'
