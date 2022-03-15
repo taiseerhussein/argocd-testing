@@ -1,7 +1,6 @@
 kind: Deployment
 apiVersion: apps/v1
-metadata:  
-  namespace: test
+metadata: 
   labels:
     app: nodejs-sample
     app.kubernetes.io/component: nodejs-sample
